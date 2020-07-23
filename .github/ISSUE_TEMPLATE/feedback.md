@@ -1,10 +1,11 @@
 ---
 name: Feedback
-about: User feedback
-title: "[Feedback]"
+about: Feedback & Rückmeldungen
+title: ''
 labels: ''
 assignees: ''
 
 ---
 
-Ihre Rückmeldung (*your feedback*):
+Please insert your feedback here.
+Bitte geben Sie Ihre Rückmeldung hier ein.
